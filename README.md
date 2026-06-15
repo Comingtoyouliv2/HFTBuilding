@@ -1,0 +1,2 @@
+# BuildingHFT-
+- Using Nasdaq ITCH 
