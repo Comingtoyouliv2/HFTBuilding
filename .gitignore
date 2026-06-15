@@ -1,0 +1,16 @@
+# 빌드 디렉토리 / 산출물
+build/
+build-linux/
+*.o
+*.out
+a.out
+
+# 실행 파일 (CMake 타겟)
+itch-receiver/hello
+itch-receiver/hexdump
+
+# 에디터 / OS
+.DS_Store
+.vscode/
+.idea/
+compile_commands.json

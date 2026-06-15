@@ -1,0 +1,11 @@
+# 빌드 산출물
+build/
+*.o
+*.out
+a.out
+
+# 에디터/OS
+.DS_Store
+.vscode/
+.idea/
+compile_commands.json
